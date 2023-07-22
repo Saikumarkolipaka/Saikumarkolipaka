@@ -1,6 +1,6 @@
 👋 Hello, I'm Saikumar Kolipaka!
 
-🎓 Recent MSc-IT graduate | Passionate about technology and coding.
+🎓 Recent MSc-IT post-graduate| Passionate about technology and coding.
 
 🔭 I'm enthusiastic about exploring new technologies and contributing to open-source projects.
 
